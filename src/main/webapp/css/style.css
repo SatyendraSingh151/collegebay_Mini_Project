@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f7fb;
+}
+
+.navbar-collegebay {
+    background: linear-gradient(135deg, #0d6efd, #6610f2);
+}
+
+.navbar-collegebay .navbar-brand {
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.card-shadow {
+    border-radius: 1rem;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+}
+
+/* Tables */
+.table-resources th {
+    background-color: #0d6efd;
+    color: #fff;
+}
+
+.table-resources td, .table-resources th {
+    vertical-align: middle;
+}
